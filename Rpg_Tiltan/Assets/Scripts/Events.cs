@@ -6,5 +6,5 @@ using UnityEngine.Events;
 public class Events : MonoBehaviour
 {
     //The event variable
-    [SerializeField] public UnityEvent MovementHandler;
+    public UnityEvent MovementHandler;
 }
